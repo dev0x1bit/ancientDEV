@@ -1,0 +1,40 @@
+{
+  "animateLoading": true,
+  "borderOpacity": 100,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "borderWidth": 1,
+  "bottomRow": 67,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "va1tj5qotb",
+  "leftColumn": 7,
+  "mobileBottomRow": 46,
+  "mobileLeftColumn": 34,
+  "mobileRightColumn": 58,
+  "mobileTopRow": 14,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 20.25,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 59,
+  "source": "https://www.example.com",
+  "srcDoc": "<div style=\"width: 100%;\"><div style=\"position: relative; padding-bottom: 46.88%; padding-top: 0; height: 0;\"><iframe title=\"Inyeccion\" frameborder=\"0\" width=\"100%\" height=\"100%\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://view.genially.com/65e20c85b58385001403c71c\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"true\" scrolling=\"yes\" allownetworking=\"all\"></iframe> </div> </div>",
+  "topRow": 14,
+  "type": "IFRAME_WIDGET",
+  "version": 1,
+  "widgetId": "n66anivbau",
+  "widgetName": "Iframe1"
+}
